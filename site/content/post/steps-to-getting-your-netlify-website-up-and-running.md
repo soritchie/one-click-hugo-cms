@@ -7,7 +7,7 @@ description: >-
 image: img/cyber_thumb.jpg
 ---
 # Why I did this
-I have been burned with Wordpress before. Hard to keep secure, loads and loads of packages and dependencies to keep up to date, template system pretty flaky.
+I have been burned with Wordpress before. Hard to keep secure, lots of packages and dependencies to keep up to date, template system pretty hard to tweak quickly.
 
 ## Step 1
 Go to NetlifyCMS and pick a starter package. I chose Hugo.
